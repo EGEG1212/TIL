@@ -1,7 +1,7 @@
 # Today I learned
 
 I'm interested in voice recognition and voice synthesis.
-I take the first step because I want to make what I want. ❤
+I take the first step because I want to make what I want. 👟
 Go for it!💖
 
 
