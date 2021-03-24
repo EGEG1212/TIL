@@ -1,5 +1,4 @@
-# TIL
-Today I learned
+# Today I learned
 
--[] 체크박스
-*[] -마크다운
+이수안컴퓨터연구소
+<https://www.youtube.com/playlist?list=PL7ZVZgsnLwEGskuPmm2-pYsNKY8Ihs5AP>
