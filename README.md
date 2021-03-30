@@ -8,5 +8,4 @@ Go for it!💖<br>
 2. Learn about Digital Signal Processing (DSP) using Librosa and Torch Audio.
 
 ## Reference
-> 이수안컴퓨터연구소<br>
-> <https://www.youtube.com/playlist?list=PL7ZVZgsnLwEGskuPmm2-pYsNKY8Ihs5AP>
+> [suanlab](https://www.youtube.com/playlist?list=PL7ZVZgsnLwEGskuPmm2-pYsNKY8Ihs5AP)
